@@ -1,0 +1,1 @@
+This program is written in C++ language and implemented both in linux and windows system. This is a simulator program for FCFS, SRTF-preemptive, and RR scheduling algorithms. There is a sample processes entry file in text format that you can use and all function and libraries are all included in the source code. Thanks!
